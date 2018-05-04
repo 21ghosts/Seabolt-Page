@@ -1,0 +1,34 @@
+.header-img {
+    width: 200%;
+    height: -12%;
+    margin-top: -2em;
+    margin-bottom: 2em
+}
+.jumbotron {
+   
+    background-image: url(/./assets/download6.jpg) !important;
+    margin-bottom: 4em;
+}
+
+.jumbo-pic {
+    width: 100%
+}
+
+.guy-wrapper {
+    margin-bottom: 2em;
+}
+
+.profile-pic {
+    width: 50%;   
+}
+
+.btn-primary {
+    background-image: none;
+    border: none;
+    border-radius: 0;
+    background-color: rgba(149, 169, 195, 0.6);
+}
+
+h3 {
+    margin-bottom: 1em
+}

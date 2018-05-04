@@ -1,0 +1,17 @@
+.phantom {
+    display: block;
+    padding: 20px;
+    height: 60px;
+    width: 100%;
+}
+
+.style {
+    background-color: rgba(149, 169, 195, 0.6);
+    color: white;
+    text-Align: center;
+    padding: 20px;
+    left: 0;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+}
